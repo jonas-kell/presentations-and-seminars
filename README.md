@@ -7,6 +7,6 @@ Because of this, ONLY the material produced entirely by me is made public and I 
 
 I maintain this, in order to have a stash of presentations that I can redirect to if someone that listened to my talks wants to take a second look at the material.
 
-# Original files
+## Original files
 
 The original presentation files (Powerpoint/LaTeX) will not be released publicly.
